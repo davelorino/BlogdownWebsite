@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaflet on Davide Lorino</title>
+    <link>/tags/leaflet/</link>
+    <description>Recent content in Leaflet on Davide Lorino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Interactive Maps with R and Leaflet</title>
+      <link>/post/create-interactive-maps-with-r-and-leaflet/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/create-interactive-maps-with-r-and-leaflet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
